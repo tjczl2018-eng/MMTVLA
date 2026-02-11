@@ -1,1 +1,1 @@
-We evaluate MMTVLA in real-world scenarios using the Unitree Go2 quadruped robot platform and the official sdk. To enable sim-to-real transfer, the model is fine-tuned for a single step on a small real-world dataset following the same procedure as Stage 2 training.
+We evaluate MMTVLA in real-world scenarios using the Unitree Go2 quadruped robot platform and the official sdk.
