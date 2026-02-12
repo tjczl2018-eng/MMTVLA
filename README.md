@@ -16,6 +16,8 @@ QUARD-CoT Dataset: https://huggingface.co/datasets/cenzl/QUARD_CoT
 
 # Sim2Real Video
 
+We evaluate MMTVLA in real-world scenarios using the Unitree Go2 quadruped robot platform and the official sdk.
+
 Go to a position in front of the red ball.
 <img src="video/real/go_to.gif" width="720">
 
