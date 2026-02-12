@@ -6,30 +6,30 @@ QUARD-CoT Dataset: https://huggingface.co/datasets/cenzl/QUARD_CoT
 
 # Simulation Video
 
-<video src="video/sim/go_to.mp4" controls width="720"></video>
-<video src="video/sim/unload.mp4" controls width="720"></video>
-<video src="video/sim/crawl.mp4" controls width="720"></video>
-<video src="video/sim/go_through_rectangle.mp4" controls width="720"></video>
-<video src="video/sim/go_avoid.mp4" controls width="720"></video>
-<video src="video/sim/go_through_triangle.mp4" controls width="720"></video>
-<video src="video/sim/distinguish.mp4" controls width="720"></video>
+<img src="video/sim/go_to.gif" width="720">
+<img src="video/sim/unload.gif" width="720">
+<img src="video/sim/crawl.gif" width="720">
+<img src="video/sim/go_through_rectangle.gif" width="720">
+<img src="video/sim/go_avoid.gif" width="720">
+<img src="video/sim/go_through_triangle.gif" width="720">
+<img src="video/sim/distinguish.gif" width="720">
 
 # Sim2Real Video
 
 Go to a position in front of the red ball.
-<video src="video/real/go_to.mp4" controls width="720"></video>
+<img src="video/real/go_to.gif" width="720">
 
 Recognize the letter B and walk to the sign displaying the letter B.
-<video src="video/real/distinguish.mp4" controls width="720"></video>
+<img src="video/real/distinguish.gif" width="720">
 
 Go through the square passage.
-<video src="video/real/go_through.mp4" controls width="720"></video>
+<img src="video/real/go_through.gif" width="720">
 
 Go through the triangular passage.
-<video src="video/real/go_through2.mp4" controls width="720"></video>
+<img src="video/real/go_through2.gif" width="720">
 
 Avoid the chair and locate the green sphere, then move toward it.
-<video src="video/real/avoid.mp4" controls width="720"></video>
+<img src="video/real/avoid.gif" width="720">
 
 Unload the item into the yellow tray.
-<video src="video/real/unload.mp4" controls width="720"></video>
+<img src="video/real/unload.gif" width="720">
