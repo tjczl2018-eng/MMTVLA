@@ -22,10 +22,10 @@ Go to a position in front of the red ball.
 Recognize the letter B and walk to the sign displaying the letter B.
 <video src="video/real/distinguish.mp4" controls width="720"></video>
 
-Go through the square passage
+Go through the square passage.
 <video src="video/real/go_through.mp4" controls width="720"></video>
 
-Go through the triangular passage
+Go through the triangular passage.
 <video src="video/real/go_through2.mp4" controls width="720"></video>
 
 Avoid the chair and locate the green sphere, then move toward it.
