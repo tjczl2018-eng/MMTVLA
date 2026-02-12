@@ -1,0 +1,1 @@
+We evaluate MMTVLA in real-world scenarios using the Unitree Go2 quadruped robot platform and the official sdk.
