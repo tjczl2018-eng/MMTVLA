@@ -16,26 +16,20 @@ QUARD-CoT Dataset: https://huggingface.co/datasets/cenzl/QUARD_CoT
 
 # Sim2Real Video
 
-## Go to a position in front of the red ball.
-
+Go to a position in front of the red ball.
 <video src="video/real/go_to.mp4" controls width="720"></video>
 
-## Recognize the letter B and walk to the sign displaying the letter B.
-
+Recognize the letter B and walk to the sign displaying the letter B.
 <video src="video/real/distinguish.mp4" controls width="720"></video>
 
-## Go through the square passage
-
+Go through the square passage
 <video src="video/real/go_through.mp4" controls width="720"></video>
 
-## Go through the triangular passage
-
+Go through the triangular passage
 <video src="video/real/go_through2.mp4" controls width="720"></video>
 
-## Avoid the chair and locate the green sphere, then move toward it.
-
+Avoid the chair and locate the green sphere, then move toward it.
 <video src="video/real/avoid.mp4" controls width="720"></video>
 
-## Unload the item into the yellow tray.
-
+Unload the item into the yellow tray.
 <video src="video/real/unload.mp4" controls width="720"></video>
